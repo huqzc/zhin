@@ -82,7 +82,7 @@
       "category": [
         "adapter"
       ],
-      "version": "0.1.32",
+      "version": "0.1.33",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-github",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -97,7 +97,7 @@
         "webhook",
         "chatbot"
       ],
-      "lastUpdate": "2026-04-08T08:50:56.225Z"
+      "lastUpdate": "2026-04-09T06:05:47.971Z"
     },
     {
       "name": "@zhin.js/adapter-icqq",
@@ -1175,5 +1175,5 @@
     "adapters": 17,
     "community": 0
   },
-  "updatedAt": "2026-04-09T02:56:16.676Z"
+  "updatedAt": "2026-04-10T03:28:51.688Z"
 }
