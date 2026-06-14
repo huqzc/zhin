@@ -174,6 +174,29 @@
       "lastUpdate": "2026-06-11T14:48:26.827Z"
     },
     {
+      "name": "@zhin.js/adapter-line",
+      "displayName": "line",
+      "description": "Zhin.js adapter for LINE Messaging API",
+      "author": "lc_cn",
+      "isOfficial": true,
+      "category": [
+        "adapter"
+      ],
+      "version": "0.1.1",
+      "npm": "https://www.npmjs.com/package/@zhin.js/adapter-line",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "zhin.js",
+        "bot",
+        "adapter",
+        "line",
+        "chatbot"
+      ],
+      "lastUpdate": "2026-06-13T06:56:54.065Z"
+    },
+    {
       "name": "@zhin.js/adapter-milky",
       "displayName": "milky",
       "description": "Zhin.js adapter for Milky protocol",
@@ -438,6 +461,31 @@
         "chatbot"
       ],
       "lastUpdate": "2026-06-11T14:48:31.984Z"
+    },
+    {
+      "name": "@zhin.js/adapter-wecom",
+      "displayName": "wecom",
+      "description": "Zhin.js adapter for WeCom (企业微信)",
+      "author": "lc_cn",
+      "isOfficial": true,
+      "category": [
+        "adapter"
+      ],
+      "version": "0.0.1",
+      "npm": "https://www.npmjs.com/package/@zhin.js/adapter-wecom",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "zhin.js",
+        "bot",
+        "adapter",
+        "wecom",
+        "企业微信",
+        "wechat work",
+        "chatbot"
+      ],
+      "lastUpdate": "2026-06-13T06:54:52.000Z"
     },
     {
       "name": "@zhin.js/adapter-weixin-ilink",
@@ -1320,10 +1368,10 @@
     }
   ],
   "stats": {
-    "total": 61,
-    "official": 61,
-    "adapters": 19,
+    "total": 63,
+    "official": 63,
+    "adapters": 21,
     "community": 0
   },
-  "updatedAt": "2026-06-13T04:26:57.505Z"
+  "updatedAt": "2026-06-14T04:54:31.210Z"
 }
