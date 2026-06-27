@@ -751,6 +751,20 @@
       "lastUpdate": "2026-04-15T03:40:06.629Z"
     },
     {
+      "name": "@zhin.js/game-shared",
+      "displayName": "game-shared",
+      "description": "Zhin.js 游戏插件通用工具包",
+      "author": "lc_cn",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.0.0",
+      "npm": "https://www.npmjs.com/package/@zhin.js/game-shared",
+      "github": "",
+      "homepage": "",
+      "tags": [],
+      "lastUpdate": "2026-06-26T11:03:10.596Z"
+    },
+    {
       "name": "@zhin.js/hmr",
       "displayName": "hmr",
       "description": "Zhin热更替框架",
@@ -1005,6 +1019,20 @@
       "lastUpdate": "2026-06-25T10:06:50.508Z"
     },
     {
+      "name": "@zhin.js/plugin-dice-duel",
+      "displayName": "plugin-dice-duel",
+      "description": "Zhin.js 骰子对决 — 三局两胜比大小",
+      "author": "lc_cn",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.0.0",
+      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-dice-duel",
+      "github": "",
+      "homepage": "",
+      "tags": [],
+      "lastUpdate": "2026-06-26T11:03:45.299Z"
+    },
+    {
       "name": "@zhin.js/plugin-github-notify",
       "displayName": "plugin-github-notify",
       "description": "GitHub webhook notification service for Zhin.js",
@@ -1053,6 +1081,20 @@
       "lastUpdate": "2026-06-25T10:06:52.186Z"
     },
     {
+      "name": "@zhin.js/plugin-guess-number",
+      "displayName": "plugin-guess-number",
+      "description": "Zhin.js 猜数字 — 1~100 七步之内猜中",
+      "author": "lc_cn",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.0.0",
+      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-guess-number",
+      "github": "",
+      "homepage": "",
+      "tags": [],
+      "lastUpdate": "2026-06-26T11:03:37.976Z"
+    },
+    {
       "name": "@zhin.js/plugin-html-renderer",
       "displayName": "plugin-html-renderer",
       "description": "HTML to image rendering plugin for Zhin.js using @zhinjs/satori",
@@ -1076,6 +1118,22 @@
         "png"
       ],
       "lastUpdate": "2026-06-18T17:16:33.738Z"
+    },
+    {
+      "name": "@zhin.js/plugin-idiom-chain",
+      "displayName": "plugin-idiom-chain",
+      "description": "Zhin.js 成语接龙 — 四字成语文字接龙",
+      "author": "lc_cn",
+      "isOfficial": true,
+      "category": [
+        "ai"
+      ],
+      "version": "1.0.0",
+      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-idiom-chain",
+      "github": "",
+      "homepage": "",
+      "tags": [],
+      "lastUpdate": "2026-06-26T11:03:53.197Z"
     },
     {
       "name": "@zhin.js/plugin-link-poster",
@@ -1171,6 +1229,20 @@
       "lastUpdate": "2026-06-25T10:06:53.437Z"
     },
     {
+      "name": "@zhin.js/plugin-rps",
+      "displayName": "plugin-rps",
+      "description": "Zhin.js 猜拳游戏 — 石头剪刀布三局两胜",
+      "author": "lc_cn",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.0.0",
+      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-rps",
+      "github": "",
+      "homepage": "",
+      "tags": [],
+      "lastUpdate": "2026-06-26T11:03:30.757Z"
+    },
+    {
       "name": "@zhin.js/plugin-rss",
       "displayName": "plugin-rss",
       "description": "RSS/Atom feed subscription & push plugin for Zhin.js — subscribe feeds, auto-poll, push new items to groups",
@@ -1219,6 +1291,52 @@
       "lastUpdate": "2026-06-25T10:06:55.350Z"
     },
     {
+      "name": "@zhin.js/plugin-text-adventure",
+      "displayName": "plugin-text-adventure",
+      "description": "Zhin.js 交互式文字冒险 — 分支剧情与选项按钮",
+      "author": "lc_cn",
+      "isOfficial": true,
+      "category": [
+        "game"
+      ],
+      "version": "1.0.0",
+      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-text-adventure",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "zhin.js",
+        "bot",
+        "plugin",
+        "game",
+        "text-adventure"
+      ],
+      "lastUpdate": "2026-06-26T11:04:07.323Z"
+    },
+    {
+      "name": "@zhin.js/plugin-tic-tac-toe",
+      "displayName": "plugin-tic-tac-toe",
+      "description": "Zhin.js 跨平台井字棋 — 按钮/文本双模式，群聊排队与人机对战",
+      "author": "lc_cn",
+      "isOfficial": true,
+      "category": [
+        "game"
+      ],
+      "version": "1.0.0",
+      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-tic-tac-toe",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "zhin.js",
+        "bot",
+        "plugin",
+        "game",
+        "tic-tac-toe"
+      ],
+      "lastUpdate": "2026-06-26T11:03:22.258Z"
+    },
+    {
       "name": "@zhin.js/plugin-voice",
       "displayName": "plugin-voice",
       "description": "Voice input/output plugin for Zhin.js — STT via Whisper + TTS via edge-tts",
@@ -1242,6 +1360,20 @@
         "speech"
       ],
       "lastUpdate": "2026-06-18T17:16:38.535Z"
+    },
+    {
+      "name": "@zhin.js/plugin-word-riddle",
+      "displayName": "plugin-word-riddle",
+      "description": "Zhin.js 猜谜 — 字谜与猜成语",
+      "author": "lc_cn",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.0.0",
+      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-word-riddle",
+      "github": "",
+      "homepage": "",
+      "tags": [],
+      "lastUpdate": "2026-06-26T11:04:01.084Z"
     },
     {
       "name": "@zhin.js/process-monitor",
@@ -1411,10 +1543,10 @@
     }
   ],
   "stats": {
-    "total": 65,
-    "official": 65,
+    "total": 73,
+    "official": 73,
     "adapters": 21,
     "community": 0
   },
-  "updatedAt": "2026-06-26T04:19:03.815Z"
+  "updatedAt": "2026-06-27T04:05:32.163Z"
 }
