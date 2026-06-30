@@ -997,6 +997,20 @@
       "lastUpdate": "2026-06-25T10:06:51.288Z"
     },
     {
+      "name": "@zhin.js/plugin-blackjack",
+      "displayName": "plugin-blackjack",
+      "description": "Zhin.js 21 点（Blackjack）",
+      "author": "lc_cn",
+      "isOfficial": true,
+      "category": [],
+      "version": "0.0.0",
+      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-blackjack",
+      "github": "",
+      "homepage": "",
+      "tags": [],
+      "lastUpdate": "2026-06-29T07:31:14.773Z"
+    },
+    {
       "name": "@zhin.js/plugin-code-runner",
       "displayName": "plugin-code-runner",
       "description": "Sandboxed code execution plugin for Zhin.js — run code snippets via AI or command",
@@ -1543,10 +1557,10 @@
     }
   ],
   "stats": {
-    "total": 73,
-    "official": 73,
+    "total": 74,
+    "official": 74,
     "adapters": 21,
     "community": 0
   },
-  "updatedAt": "2026-06-29T04:47:15.297Z"
+  "updatedAt": "2026-06-30T04:13:42.294Z"
 }
