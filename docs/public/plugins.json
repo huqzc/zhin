@@ -1459,6 +1459,28 @@
       "lastUpdate": "2026-06-25T10:06:37.297Z"
     },
     {
+      "name": "@zhin.js/schedule",
+      "displayName": "schedule",
+      "description": "Calendar semantic scheduler for Zhin.js — solar, lunar, statutory holidays, workdays, scatter",
+      "author": "lc_cn",
+      "isOfficial": true,
+      "category": [],
+      "version": "0.0.0",
+      "npm": "https://www.npmjs.com/package/@zhin.js/schedule",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "scheduler",
+        "cron",
+        "chinese-calendar",
+        "lunar",
+        "holiday",
+        "workday"
+      ],
+      "lastUpdate": "2026-07-04T00:42:20.658Z"
+    },
+    {
       "name": "@zhin.js/schema",
       "displayName": "schema",
       "description": "Configuration validation and schema system for Zhin.js",
@@ -1557,10 +1579,10 @@
     }
   ],
   "stats": {
-    "total": 74,
-    "official": 74,
+    "total": 75,
+    "official": 75,
     "adapters": 21,
     "community": 0
   },
-  "updatedAt": "2026-07-03T03:55:44.056Z"
+  "updatedAt": "2026-07-04T03:49:18.948Z"
 }
