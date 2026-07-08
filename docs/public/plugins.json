@@ -1528,6 +1528,29 @@
       "lastUpdate": "2026-06-18T17:16:37.859Z"
     },
     {
+      "name": "@zhin.js/service-activity-feedback",
+      "displayName": "service-activity-feedback",
+      "description": "Activity Feedback 服务插件：订阅 AI 生命周期事件，按 endpoint activityFeedback 配置驱动适配器能力",
+      "author": "lc_cn",
+      "isOfficial": true,
+      "category": [
+        "service"
+      ],
+      "version": "1.0.0",
+      "npm": "https://www.npmjs.com/package/@zhin.js/service-activity-feedback",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "zhin.js",
+        "plugin",
+        "service",
+        "activity-feedback",
+        "typing-indicator"
+      ],
+      "lastUpdate": "2026-07-07T10:40:25.193Z"
+    },
+    {
       "name": "@zhin.js/speech",
       "displayName": "speech",
       "description": "STT/TTS for Zhin.js (Whisper + edge/openai/azure/custom TTS); optional peer of zhin.js",
@@ -1579,10 +1602,10 @@
     }
   ],
   "stats": {
-    "total": 75,
-    "official": 75,
+    "total": 76,
+    "official": 76,
     "adapters": 21,
     "community": 0
   },
-  "updatedAt": "2026-07-07T04:04:43.134Z"
+  "updatedAt": "2026-07-08T03:30:15.910Z"
 }
