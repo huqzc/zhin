@@ -1,6 +1,25 @@
 {
   "plugins": [
     {
+      "name": "@zhin.js/a2a",
+      "displayName": "a2a",
+      "description": "A2A Protocol server for Zhin.js — multi-agent Agent Cards and task delegation",
+      "author": "lc_cn",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.0.0",
+      "npm": "https://www.npmjs.com/package/@zhin.js/a2a",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "a2a",
+        "agent2agent",
+        "agent-mesh"
+      ],
+      "lastUpdate": "2026-07-08T03:46:46.626Z"
+    },
+    {
       "name": "@zhin.js/adapter-dingtalk",
       "displayName": "dingtalk",
       "description": "Zhin.js adapter for DingTalk (钉钉)",
@@ -1602,10 +1621,10 @@
     }
   ],
   "stats": {
-    "total": 76,
-    "official": 76,
+    "total": 77,
+    "official": 77,
     "adapters": 21,
     "community": 0
   },
-  "updatedAt": "2026-07-08T03:30:15.910Z"
+  "updatedAt": "2026-07-09T04:03:30.013Z"
 }
