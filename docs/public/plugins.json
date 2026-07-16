@@ -773,15 +773,15 @@
       "name": "@zhin.js/game-shared",
       "displayName": "game-shared",
       "description": "Zhin.js 游戏插件通用工具包",
-      "author": "lc_cn",
+      "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.0.0",
+      "version": "1.0.1",
       "npm": "https://www.npmjs.com/package/@zhin.js/game-shared",
-      "github": "",
-      "homepage": "",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-06-26T11:03:10.596Z"
+      "lastUpdate": "2026-07-15T06:14:18.066Z"
     },
     {
       "name": "@zhin.js/hmr",
@@ -1019,15 +1019,15 @@
       "name": "@zhin.js/plugin-blackjack",
       "displayName": "plugin-blackjack",
       "description": "Zhin.js 21 点（Blackjack）",
-      "author": "lc_cn",
+      "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "0.0.0",
+      "version": "0.0.1",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-blackjack",
-      "github": "",
-      "homepage": "",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-06-29T07:31:14.773Z"
+      "lastUpdate": "2026-07-15T06:14:18.067Z"
     },
     {
       "name": "@zhin.js/plugin-code-runner",
@@ -1055,15 +1055,15 @@
       "name": "@zhin.js/plugin-dice-duel",
       "displayName": "plugin-dice-duel",
       "description": "Zhin.js 骰子对决 — 三局两胜比大小",
-      "author": "lc_cn",
+      "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.0.0",
+      "version": "1.0.1",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-dice-duel",
-      "github": "",
-      "homepage": "",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-06-26T11:03:45.299Z"
+      "lastUpdate": "2026-07-15T06:14:18.271Z"
     },
     {
       "name": "@zhin.js/plugin-github-notify",
@@ -1117,15 +1117,15 @@
       "name": "@zhin.js/plugin-guess-number",
       "displayName": "plugin-guess-number",
       "description": "Zhin.js 猜数字 — 1~100 七步之内猜中",
-      "author": "lc_cn",
+      "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.0.0",
+      "version": "1.0.1",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-guess-number",
-      "github": "",
-      "homepage": "",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-06-26T11:03:37.976Z"
+      "lastUpdate": "2026-07-15T06:14:18.134Z"
     },
     {
       "name": "@zhin.js/plugin-html-renderer",
@@ -1156,17 +1156,17 @@
       "name": "@zhin.js/plugin-idiom-chain",
       "displayName": "plugin-idiom-chain",
       "description": "Zhin.js 成语接龙 — 四字成语文字接龙",
-      "author": "lc_cn",
+      "author": "GitHub Actions",
       "isOfficial": true,
       "category": [
         "ai"
       ],
-      "version": "1.0.0",
+      "version": "1.0.1",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-idiom-chain",
-      "github": "",
-      "homepage": "",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-06-26T11:03:53.197Z"
+      "lastUpdate": "2026-07-15T06:14:18.071Z"
     },
     {
       "name": "@zhin.js/plugin-link-poster",
@@ -1291,15 +1291,15 @@
       "name": "@zhin.js/plugin-rps",
       "displayName": "plugin-rps",
       "description": "Zhin.js 猜拳游戏 — 石头剪刀布三局两胜",
-      "author": "lc_cn",
+      "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.0.0",
+      "version": "1.0.1",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-rps",
-      "github": "",
-      "homepage": "",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-06-26T11:03:30.757Z"
+      "lastUpdate": "2026-07-15T06:14:18.227Z"
     },
     {
       "name": "@zhin.js/plugin-rss",
@@ -1424,15 +1424,15 @@
       "name": "@zhin.js/plugin-word-riddle",
       "displayName": "plugin-word-riddle",
       "description": "Zhin.js 猜谜 — 字谜与猜成语",
-      "author": "lc_cn",
+      "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.0.0",
+      "version": "1.0.1",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-word-riddle",
-      "github": "",
-      "homepage": "",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-06-26T11:04:01.084Z"
+      "lastUpdate": "2026-07-15T06:14:19.068Z"
     },
     {
       "name": "@zhin.js/process-monitor",
@@ -1652,5 +1652,5 @@
     "adapters": 21,
     "community": 0
   },
-  "updatedAt": "2026-07-15T03:14:22.737Z"
+  "updatedAt": "2026-07-16T03:20:47.793Z"
 }
