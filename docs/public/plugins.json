@@ -698,20 +698,6 @@
       "lastUpdate": "2026-06-02T01:39:12.169Z"
     },
     {
-      "name": "@zhin.js/console-app",
-      "displayName": "console-app",
-      "description": "Zhin console Farm + React shell (aligned with @page-manager/app)",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "0.1.3",
-      "npm": "https://www.npmjs.com/package/@zhin.js/console-app",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-04-28T07:01:38.481Z"
-    },
-    {
       "name": "@zhin.js/console-contract",
       "displayName": "console-contract",
       "description": "Zero-dependency Page, Layout, route and navigation contracts for Zhin.js plugins",
@@ -1893,10 +1879,10 @@
     }
   ],
   "stats": {
-    "total": 97,
-    "official": 97,
+    "total": 96,
+    "official": 96,
     "adapters": 22,
     "community": 0
   },
-  "updatedAt": "2026-07-28T03:18:40.126Z"
+  "updatedAt": "2026-07-29T03:20:15.446Z"
 }
