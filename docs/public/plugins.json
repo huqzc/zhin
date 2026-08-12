@@ -742,20 +742,6 @@
       "lastUpdate": "2026-07-23T01:25:28.077Z"
     },
     {
-      "name": "@zhin.js/console-types",
-      "displayName": "console-types",
-      "description": "Zhin console / page-manager 对齐的共享类型（对标 @page-manager/types）",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "0.1.5",
-      "npm": "https://www.npmjs.com/package/@zhin.js/console-types",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-06-02T01:38:53.163Z"
-    },
-    {
       "name": "@zhin.js/contract",
       "displayName": "contract",
       "description": "Zhin console / PageManager shared contract (entries, PluginRegisterHostApi)",
@@ -927,6 +913,20 @@
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
       "lastUpdate": "2026-08-05T09:48:48.932Z"
+    },
+    {
+      "name": "@zhin.js/host-http-contract",
+      "displayName": "host-http-contract",
+      "description": "Minimal HTTP route and request-body contract shared by Zhin hosts",
+      "author": "lc_cn",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.0.0",
+      "npm": "https://www.npmjs.com/package/@zhin.js/host-http-contract",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [],
+      "lastUpdate": "2026-08-04T06:45:54.069Z"
     },
     {
       "name": "@zhin.js/host-router",
@@ -1875,5 +1875,5 @@
     "adapters": 22,
     "community": 0
   },
-  "updatedAt": "2026-08-11T02:11:13.781Z"
+  "updatedAt": "2026-08-12T02:29:17.607Z"
 }
