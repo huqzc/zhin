@@ -1016,6 +1016,20 @@
       "lastUpdate": "2026-06-02T01:38:57.898Z"
     },
     {
+      "name": "@zhin.js/im-contract",
+      "displayName": "im-contract",
+      "description": "Stable IM transport contracts for Zhin.js",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.0.1",
+      "npm": "https://www.npmjs.com/package/@zhin.js/im-contract",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [],
+      "lastUpdate": "2026-08-05T09:48:55.171Z"
+    },
+    {
       "name": "@zhin.js/isolate",
       "displayName": "isolate",
       "description": "Worker and child-process isolation adapter for the Zhin Plugin Runtime",
@@ -1651,20 +1665,6 @@
       "lastUpdate": "2026-08-05T09:50:21.876Z"
     },
     {
-      "name": "@zhin.js/queue-runtime",
-      "displayName": "queue-runtime",
-      "description": "Queue bot runtime: enqueueOutgoing, claimOutgoing, executeOutbound",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "0.0.4",
-      "npm": "https://www.npmjs.com/package/@zhin.js/queue-runtime",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-06-02T01:38:58.495Z"
-    },
-    {
       "name": "@zhin.js/runtime",
       "displayName": "runtime",
       "description": "Static Plugin graph, generation transaction and HMR Root runtime for Zhin.js",
@@ -1875,5 +1875,5 @@
     "adapters": 22,
     "community": 0
   },
-  "updatedAt": "2026-08-12T02:29:17.607Z"
+  "updatedAt": "2026-08-13T02:31:01.309Z"
 }
