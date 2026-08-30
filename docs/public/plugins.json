@@ -1014,6 +1014,20 @@
       "lastUpdate": "2026-08-22T18:14:43.942Z"
     },
     {
+      "name": "@zhin.js/interaction",
+      "displayName": "interaction",
+      "description": "Transport-neutral user interaction contracts for Zhin.js",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.0.1",
+      "npm": "https://www.npmjs.com/package/@zhin.js/interaction",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [],
+      "lastUpdate": "2026-08-22T18:14:44.687Z"
+    },
+    {
       "name": "@zhin.js/isolate",
       "displayName": "isolate",
       "description": "Worker and child-process isolation adapter for the Zhin Plugin Runtime",
@@ -1874,20 +1888,6 @@
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
       "lastUpdate": "2026-08-24T10:33:10.221Z"
-    },
-    {
-      "name": "@zhin.js/types",
-      "displayName": "types",
-      "description": "Zhin types for typescript",
-      "author": "lc_cn",
-      "isOfficial": true,
-      "category": [],
-      "version": "1.0.5",
-      "npm": "https://www.npmjs.com/package/@zhin.js/types",
-      "github": "",
-      "homepage": "",
-      "tags": [],
-      "lastUpdate": "2025-11-17T15:12:30.927Z"
     }
   ],
   "stats": {
@@ -1896,5 +1896,5 @@
     "adapters": 22,
     "community": 0
   },
-  "updatedAt": "2026-08-29T06:47:51.640Z"
+  "updatedAt": "2026-08-30T05:00:46.405Z"
 }
