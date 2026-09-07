@@ -1504,10 +1504,10 @@
       "name": "@zhin.js/plugin-repeater",
       "displayName": "plugin-repeater",
       "description": "Repeater plugin for Zhin.js — auto-repeat when group members echo the same content (Plugin Runtime)",
-      "author": "GitHub Actions",
+      "author": "lc_cn",
       "isOfficial": true,
       "category": [],
-      "version": "3.0.24",
+      "version": "4.0.0",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-repeater",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -1522,7 +1522,7 @@
         "chatbot",
         "im"
       ],
-      "lastUpdate": "2026-08-25T10:00:06.791Z"
+      "lastUpdate": "2026-09-07T00:57:08.813Z"
     },
     {
       "name": "@zhin.js/plugin-rps",
@@ -1896,5 +1896,5 @@
     "adapters": 22,
     "community": 0
   },
-  "updatedAt": "2026-09-06T04:11:44.988Z"
+  "updatedAt": "2026-09-07T04:11:04.754Z"
 }
