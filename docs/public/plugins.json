@@ -332,26 +332,6 @@
       "lastUpdate": "2026-09-07T08:06:02.247Z"
     },
     {
-      "name": "@zhin.js/adapter-process",
-      "displayName": "process",
-      "description": "zhin adapter for process",
-      "author": "lc_cn",
-      "isOfficial": true,
-      "category": [
-        "adapter"
-      ],
-      "version": "1.0.22",
-      "npm": "https://www.npmjs.com/package/@zhin.js/adapter-process",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [
-        "zhin",
-        "adapter",
-        "process"
-      ],
-      "lastUpdate": "2025-11-25T02:06:34.673Z"
-    },
-    {
       "name": "@zhin.js/adapter-qq",
       "displayName": "qq",
       "description": "Zhin.js QQ Official adapter for Plugin Runtime (WebSocket gateway)",
@@ -857,6 +837,20 @@
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
       "lastUpdate": "2026-09-07T08:06:06.829Z"
+    },
+    {
+      "name": "@zhin.js/hmr",
+      "displayName": "hmr",
+      "description": "Zhin热更替框架",
+      "author": "lc_cn",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.0.8",
+      "npm": "https://www.npmjs.com/package/@zhin.js/hmr",
+      "github": "",
+      "homepage": "",
+      "tags": [],
+      "lastUpdate": "2025-11-25T02:06:05.080Z"
     },
     {
       "name": "@zhin.js/host-api",
@@ -1893,8 +1887,8 @@
   "stats": {
     "total": 97,
     "official": 97,
-    "adapters": 22,
+    "adapters": 21,
     "community": 0
   },
-  "updatedAt": "2026-09-15T04:33:13.210Z"
+  "updatedAt": "2026-09-16T04:28:40.404Z"
 }
