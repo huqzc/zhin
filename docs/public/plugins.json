@@ -1054,7 +1054,7 @@
         "service",
         "ai"
       ],
-      "version": "1.1.4",
+      "version": "1.1.5",
       "npm": "https://www.npmjs.com/package/@zhin.js/mcp",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -1069,7 +1069,7 @@
         "assistant",
         "llm"
       ],
-      "lastUpdate": "2026-09-23T02:30:02.236Z"
+      "lastUpdate": "2026-09-23T10:56:06.137Z"
     },
     {
       "name": "@zhin.js/mcp-feature",
@@ -1878,5 +1878,5 @@
     "adapters": 21,
     "community": 0
   },
-  "updatedAt": "2026-09-23T04:25:52.821Z"
+  "updatedAt": "2026-09-24T04:22:52.376Z"
 }
