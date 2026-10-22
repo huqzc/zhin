@@ -774,29 +774,6 @@
       "lastUpdate": "2026-10-16T08:04:00.057Z"
     },
     {
-      "name": "@zhin.js/dependency",
-      "displayName": "dependency",
-      "description": "TypeScript dependency tree analyzer with ESM support for Zhin.js",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "1.0.5",
-      "npm": "https://www.npmjs.com/package/@zhin.js/dependency",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [
-        "zhin",
-        "bot",
-        "dependency",
-        "tree",
-        "module",
-        "import",
-        "typescript",
-        "esm"
-      ],
-      "lastUpdate": "2026-01-14T01:12:52.702Z"
-    },
-    {
       "name": "@zhin.js/feature-kit",
       "displayName": "feature-kit",
       "description": "Feature provider contract and owner-aware capability discovery for Zhin Plugin Runtime",
@@ -1856,6 +1833,22 @@
       "lastUpdate": "2026-10-20T06:49:25.203Z"
     },
     {
+      "name": "@zhin.js/service-typesafe",
+      "displayName": "service-typesafe",
+      "description": "Optional TypeSafe AI Jev decision provider for Zhin",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [
+        "service"
+      ],
+      "version": "1.0.6",
+      "npm": "https://www.npmjs.com/package/@zhin.js/service-typesafe",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [],
+      "lastUpdate": "2026-10-20T06:55:39.428Z"
+    },
+    {
       "name": "@zhin.js/skill",
       "displayName": "skill",
       "description": "Convention-based Markdown Skill Feature for Zhin Plugin Runtime",
@@ -1926,5 +1919,5 @@
     "adapters": 21,
     "community": 0
   },
-  "updatedAt": "2026-10-21T04:20:30.398Z"
+  "updatedAt": "2026-10-22T04:19:46.466Z"
 }
