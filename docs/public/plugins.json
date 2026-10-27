@@ -1049,6 +1049,20 @@
       "lastUpdate": "2026-10-23T14:54:14.463Z"
     },
     {
+      "name": "@zhin.js/mcp-feature",
+      "displayName": "mcp-feature",
+      "description": "Convention-based MCP client Feature for Zhin Plugin Runtime",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.1.9",
+      "npm": "https://www.npmjs.com/package/@zhin.js/mcp-feature",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [],
+      "lastUpdate": "2026-10-23T14:54:01.965Z"
+    },
+    {
       "name": "@zhin.js/middleware",
       "displayName": "middleware",
       "description": "Convention-based Middleware Feature for Zhin Plugin Runtime",
@@ -1693,26 +1707,6 @@
       "lastUpdate": "2026-10-26T02:58:10.165Z"
     },
     {
-      "name": "@zhin.js/satori",
-      "displayName": "satori",
-      "description": "HTML/CSS to SVG via official satori, with HTML input support and built-in fonts.",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "1.1.0",
-      "npm": "https://www.npmjs.com/package/@zhin.js/satori",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [
-        "satori",
-        "html",
-        "svg",
-        "og-image",
-        "zhin"
-      ],
-      "lastUpdate": "2026-09-07T08:05:24.614Z"
-    },
-    {
       "name": "@zhin.js/scaffold-wizard",
       "displayName": "scaffold-wizard",
       "description": "Shared interactive scaffold wizard for create-zhin-app and @zhin.js/cli",
@@ -1933,5 +1927,5 @@
     "adapters": 21,
     "community": 0
   },
-  "updatedAt": "2026-10-26T04:21:19.904Z"
+  "updatedAt": "2026-10-27T04:40:24.891Z"
 }
