@@ -1,25 +1,6 @@
 {
   "plugins": [
     {
-      "name": "@zhin.js/a2a",
-      "displayName": "a2a",
-      "description": "A2A Protocol server for Zhin.js — multi-agent Agent Cards and task delegation",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "1.1.17",
-      "npm": "https://www.npmjs.com/package/@zhin.js/a2a",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [
-        "zhin",
-        "a2a",
-        "agent2agent",
-        "agent-mesh"
-      ],
-      "lastUpdate": "2026-10-26T02:57:59.574Z"
-    },
-    {
       "name": "@zhin.js/adapter",
       "displayName": "adapter",
       "description": "Convention-based Adapter and Endpoint Feature for Zhin Plugin Runtime",
@@ -28,12 +9,12 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.22",
+      "version": "1.1.23",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:54:15.053Z"
+      "lastUpdate": "2026-10-27T11:54:10.867Z"
     },
     {
       "name": "@zhin.js/adapter-dingtalk",
@@ -44,7 +25,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-dingtalk",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -57,7 +38,7 @@
         "钉钉",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-23T14:55:21.299Z"
+      "lastUpdate": "2026-10-27T11:55:49.795Z"
     },
     {
       "name": "@zhin.js/adapter-discord",
@@ -68,7 +49,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-discord",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -80,7 +61,7 @@
         "discord",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-23T14:55:48.221Z"
+      "lastUpdate": "2026-10-27T11:56:24.182Z"
     },
     {
       "name": "@zhin.js/adapter-email",
@@ -92,7 +73,7 @@
         "adapter",
         "ai"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-email",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -106,7 +87,7 @@
         "imap",
         "mail"
       ],
-      "lastUpdate": "2026-10-23T14:54:59.868Z"
+      "lastUpdate": "2026-10-27T11:54:39.759Z"
     },
     {
       "name": "@zhin.js/adapter-github",
@@ -117,7 +98,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-github",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -132,7 +113,7 @@
         "webhook",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-23T14:55:24.838Z"
+      "lastUpdate": "2026-10-27T11:56:52.736Z"
     },
     {
       "name": "@zhin.js/adapter-icqq",
@@ -143,7 +124,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-icqq",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -157,7 +138,7 @@
         "tencent",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-23T14:58:19.444Z"
+      "lastUpdate": "2026-10-27T11:56:26.813Z"
     },
     {
       "name": "@zhin.js/adapter-kook",
@@ -168,7 +149,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-kook",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -181,7 +162,7 @@
         "开黑啦",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-23T14:55:07.814Z"
+      "lastUpdate": "2026-10-27T11:54:39.039Z"
     },
     {
       "name": "@zhin.js/adapter-lark",
@@ -192,7 +173,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-lark",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -206,7 +187,7 @@
         "飞书",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-23T14:56:26.961Z"
+      "lastUpdate": "2026-10-27T11:54:41.022Z"
     },
     {
       "name": "@zhin.js/adapter-line",
@@ -217,7 +198,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-line",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -229,7 +210,7 @@
         "line",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-23T14:56:19.256Z"
+      "lastUpdate": "2026-10-27T11:54:58.415Z"
     },
     {
       "name": "@zhin.js/adapter-milky",
@@ -240,7 +221,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-milky",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -253,7 +234,7 @@
         "qq",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-23T14:55:50.988Z"
+      "lastUpdate": "2026-10-27T11:56:23.085Z"
     },
     {
       "name": "@zhin.js/adapter-napcat",
@@ -264,7 +245,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-napcat",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -280,7 +261,7 @@
         "qq",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-23T14:56:21.334Z"
+      "lastUpdate": "2026-10-27T11:55:07.440Z"
     },
     {
       "name": "@zhin.js/adapter-onebot11",
@@ -291,7 +272,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-onebot11",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -305,7 +286,7 @@
         "qq",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-23T14:56:15.468Z"
+      "lastUpdate": "2026-10-27T11:57:31.565Z"
     },
     {
       "name": "@zhin.js/adapter-onebot12",
@@ -316,7 +297,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-onebot12",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -329,7 +310,27 @@
         "onebot12",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-23T14:55:57.112Z"
+      "lastUpdate": "2026-10-27T11:56:33.044Z"
+    },
+    {
+      "name": "@zhin.js/adapter-process",
+      "displayName": "process",
+      "description": "zhin adapter for process",
+      "author": "lc_cn",
+      "isOfficial": true,
+      "category": [
+        "adapter"
+      ],
+      "version": "1.0.22",
+      "npm": "https://www.npmjs.com/package/@zhin.js/adapter-process",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "adapter",
+        "process"
+      ],
+      "lastUpdate": "2025-11-25T02:06:34.673Z"
     },
     {
       "name": "@zhin.js/adapter-qq",
@@ -340,7 +341,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-qq",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -354,7 +355,7 @@
         "official",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-23T14:56:28.823Z"
+      "lastUpdate": "2026-10-27T11:55:31.111Z"
     },
     {
       "name": "@zhin.js/adapter-sandbox",
@@ -365,7 +366,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.17",
+      "version": "1.1.18",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-sandbox",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -379,7 +380,7 @@
         "development",
         "local"
       ],
-      "lastUpdate": "2026-10-26T02:58:16.583Z"
+      "lastUpdate": "2026-10-27T11:55:38.947Z"
     },
     {
       "name": "@zhin.js/adapter-satori",
@@ -390,7 +391,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-satori",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -402,7 +403,7 @@
         "satori",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-23T14:55:45.122Z"
+      "lastUpdate": "2026-10-27T11:55:44.209Z"
     },
     {
       "name": "@zhin.js/adapter-slack",
@@ -413,7 +414,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-slack",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -425,7 +426,7 @@
         "slack",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-23T14:56:31.316Z"
+      "lastUpdate": "2026-10-27T11:55:54.623Z"
     },
     {
       "name": "@zhin.js/adapter-telegram",
@@ -436,7 +437,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-telegram",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -448,7 +449,7 @@
         "telegram",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-23T14:56:26.897Z"
+      "lastUpdate": "2026-10-27T11:55:26.350Z"
     },
     {
       "name": "@zhin.js/adapter-wechat-mp",
@@ -459,7 +460,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-wechat-mp",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -475,7 +476,7 @@
         "mp",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-23T14:56:08.766Z"
+      "lastUpdate": "2026-10-27T11:57:13.723Z"
     },
     {
       "name": "@zhin.js/adapter-wecom",
@@ -486,7 +487,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-wecom",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -500,7 +501,7 @@
         "wechat work",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-23T14:56:08.830Z"
+      "lastUpdate": "2026-10-27T11:55:31.331Z"
     },
     {
       "name": "@zhin.js/adapter-weixin-ilink",
@@ -511,7 +512,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-weixin-ilink",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -525,7 +526,7 @@
         "ilink",
         "clawbot"
       ],
-      "lastUpdate": "2026-10-23T14:55:51.357Z"
+      "lastUpdate": "2026-10-27T11:55:31.677Z"
     },
     {
       "name": "@zhin.js/agent",
@@ -534,12 +535,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.41",
+      "version": "1.1.42",
       "npm": "https://www.npmjs.com/package/@zhin.js/agent",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-26T02:59:06.039Z"
+      "lastUpdate": "2026-10-27T11:54:49.042Z"
     },
     {
       "name": "@zhin.js/agent-feature",
@@ -548,12 +549,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.9",
+      "version": "1.1.10",
       "npm": "https://www.npmjs.com/package/@zhin.js/agent-feature",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:54:17.104Z"
+      "lastUpdate": "2026-10-27T11:53:30.612Z"
     },
     {
       "name": "@zhin.js/ai",
@@ -564,12 +565,12 @@
       "category": [
         "ai"
       ],
-      "version": "1.1.45",
+      "version": "1.1.46",
       "npm": "https://www.npmjs.com/package/@zhin.js/ai",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-26T02:57:30.824Z"
+      "lastUpdate": "2026-10-27T11:56:49.649Z"
     },
     {
       "name": "@zhin.js/cli",
@@ -580,7 +581,7 @@
       "category": [
         "framework"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/cli",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -591,7 +592,7 @@
         "command-line",
         "tool"
       ],
-      "lastUpdate": "2026-10-26T02:58:05.416Z"
+      "lastUpdate": "2026-10-27T11:53:42.088Z"
     },
     {
       "name": "@zhin.js/client",
@@ -602,12 +603,12 @@
       "category": [
         "framework"
       ],
-      "version": "1.1.18",
+      "version": "1.1.19",
       "npm": "https://www.npmjs.com/package/@zhin.js/client",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-26T02:57:23.495Z"
+      "lastUpdate": "2026-10-27T11:53:40.309Z"
     },
     {
       "name": "@zhin.js/command",
@@ -616,40 +617,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.10",
+      "version": "1.1.11",
       "npm": "https://www.npmjs.com/package/@zhin.js/command",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:54:37.403Z"
-    },
-    {
-      "name": "@zhin.js/component",
-      "displayName": "component",
-      "description": "Convention-based Component Feature for Zhin Plugin Runtime",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "1.1.9",
-      "npm": "https://www.npmjs.com/package/@zhin.js/component",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-10-23T14:54:38.445Z"
-    },
-    {
-      "name": "@zhin.js/components",
-      "displayName": "components",
-      "description": "Optional stateless JSX visual components for Zhin.js",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "1.1.5",
-      "npm": "https://www.npmjs.com/package/@zhin.js/components",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-10-23T14:54:48.836Z"
+      "lastUpdate": "2026-10-27T11:54:11.205Z"
     },
     {
       "name": "@zhin.js/config-file",
@@ -658,12 +631,26 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.8",
+      "version": "1.1.9",
       "npm": "https://www.npmjs.com/package/@zhin.js/config-file",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:54:36.602Z"
+      "lastUpdate": "2026-10-27T11:53:34.294Z"
+    },
+    {
+      "name": "@zhin.js/config-yaml",
+      "displayName": "config-yaml",
+      "description": "Comment-preserving YAML ConfigDocument adapter for the Zhin Plugin Runtime",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.1.0",
+      "npm": "https://www.npmjs.com/package/@zhin.js/config-yaml",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [],
+      "lastUpdate": "2026-09-07T08:05:10.417Z"
     },
     {
       "name": "@zhin.js/console",
@@ -692,32 +679,62 @@
       "lastUpdate": "2026-06-02T01:39:12.169Z"
     },
     {
+      "name": "@zhin.js/console-app",
+      "displayName": "console-app",
+      "description": "Zhin console Farm + React shell (aligned with @page-manager/app)",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "0.1.3",
+      "npm": "https://www.npmjs.com/package/@zhin.js/console-app",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [],
+      "lastUpdate": "2026-04-28T07:01:38.481Z"
+    },
+    {
       "name": "@zhin.js/console-contract",
       "displayName": "console-contract",
       "description": "Zero-dependency Page, Layout, route and navigation contracts for Zhin.js plugins",
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.2",
+      "version": "1.1.3",
       "npm": "https://www.npmjs.com/package/@zhin.js/console-contract",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-16T08:04:27.959Z"
+      "lastUpdate": "2026-10-27T11:54:36.071Z"
     },
     {
-      "name": "@zhin.js/console-protocol",
-      "displayName": "console-protocol",
-      "description": "Canonical Zhin Console RPC names, payload contracts, and scope policy",
+      "name": "@zhin.js/console-core",
+      "displayName": "console-core",
+      "description": "Zhin console Host runtime: PageManager + esbuild pipeline for adapter entries (no UI)",
       "author": "GitHub Actions",
       "isOfficial": true,
-      "category": [],
-      "version": "1.1.11",
-      "npm": "https://www.npmjs.com/package/@zhin.js/console-protocol",
+      "category": [
+        "framework"
+      ],
+      "version": "1.0.4",
+      "npm": "https://www.npmjs.com/package/@zhin.js/console-core",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-22T07:35:49.944Z"
+      "lastUpdate": "2026-06-02T01:38:52.024Z"
+    },
+    {
+      "name": "@zhin.js/console-types",
+      "displayName": "console-types",
+      "description": "Zhin console / page-manager 对齐的共享类型（对标 @page-manager/types）",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "0.1.5",
+      "npm": "https://www.npmjs.com/package/@zhin.js/console-types",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [],
+      "lastUpdate": "2026-06-02T01:38:53.163Z"
     },
     {
       "name": "@zhin.js/contract",
@@ -726,12 +743,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.13",
+      "version": "1.1.14",
       "npm": "https://www.npmjs.com/package/@zhin.js/contract",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-26T02:57:37.680Z"
+      "lastUpdate": "2026-10-27T11:53:22.378Z"
     },
     {
       "name": "@zhin.js/core",
@@ -742,12 +759,12 @@
       "category": [
         "framework"
       ],
-      "version": "1.1.50",
+      "version": "1.1.51",
       "npm": "https://www.npmjs.com/package/@zhin.js/core",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:54:16.673Z"
+      "lastUpdate": "2026-10-27T11:53:36.491Z"
     },
     {
       "name": "@zhin.js/database",
@@ -774,32 +791,78 @@
       "lastUpdate": "2026-10-23T14:54:08.890Z"
     },
     {
+      "name": "@zhin.js/dependency",
+      "displayName": "dependency",
+      "description": "TypeScript dependency tree analyzer with ESM support for Zhin.js",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.0.5",
+      "npm": "https://www.npmjs.com/package/@zhin.js/dependency",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "bot",
+        "dependency",
+        "tree",
+        "module",
+        "import",
+        "typescript",
+        "esm"
+      ],
+      "lastUpdate": "2026-01-14T01:12:52.702Z"
+    },
+    {
+      "name": "@zhin.js/devteam",
+      "displayName": "devteam",
+      "description": "多Agent协同开发插件 - 基于GitHub Project看板的自动化研发流程",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "0.0.2",
+      "npm": "https://www.npmjs.com/package/@zhin.js/devteam",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "zhin.js",
+        "plugin",
+        "devteam",
+        "multi-agent",
+        "github-project",
+        "ci-cd",
+        "collaborative-development"
+      ],
+      "lastUpdate": "2026-04-15T03:40:06.629Z"
+    },
+    {
       "name": "@zhin.js/feature-kit",
       "displayName": "feature-kit",
       "description": "Feature provider contract and owner-aware capability discovery for Zhin Plugin Runtime",
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.8",
+      "version": "1.1.9",
       "npm": "https://www.npmjs.com/package/@zhin.js/feature-kit",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:53:58.115Z"
+      "lastUpdate": "2026-10-27T11:53:35.411Z"
     },
     {
-      "name": "@zhin.js/game-kit",
-      "displayName": "game-kit",
+      "name": "@zhin.js/game-shared",
+      "displayName": "game-shared",
       "description": "Zhin.js 游戏插件通用工具包",
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.15",
-      "npm": "https://www.npmjs.com/package/@zhin.js/game-kit",
+      "version": "1.0.1",
+      "npm": "https://www.npmjs.com/package/@zhin.js/game-shared",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:54:49.365Z"
+      "lastUpdate": "2026-07-15T06:14:18.066Z"
     },
     {
       "name": "@zhin.js/handler",
@@ -808,26 +871,52 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.8",
+      "version": "1.1.9",
       "npm": "https://www.npmjs.com/package/@zhin.js/handler",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:54:39.213Z"
+      "lastUpdate": "2026-10-27T11:54:00.038Z"
     },
     {
-      "name": "@zhin.js/host-http",
-      "displayName": "host-http",
-      "description": "Minimal HTTP and WebSocket host for Plugin Runtime (no Koa)",
-      "author": "GitHub Actions",
+      "name": "@zhin.js/hmr",
+      "displayName": "hmr",
+      "description": "Zhin热更替框架",
+      "author": "lc_cn",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.9",
-      "npm": "https://www.npmjs.com/package/@zhin.js/host-http",
+      "version": "1.0.8",
+      "npm": "https://www.npmjs.com/package/@zhin.js/hmr",
+      "github": "",
+      "homepage": "",
+      "tags": [],
+      "lastUpdate": "2025-11-25T02:06:05.080Z"
+    },
+    {
+      "name": "@zhin.js/host-api",
+      "displayName": "host-api",
+      "description": "Zhin Host management API (REST, Console protocol, PageManager entries)",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [
+        "service"
+      ],
+      "version": "3.0.0",
+      "npm": "https://www.npmjs.com/package/@zhin.js/host-api",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-10-23T14:57:25.296Z"
+      "tags": [
+        "zhin",
+        "zhin.js",
+        "bot",
+        "service",
+        "host-api",
+        "console",
+        "dashboard",
+        "monitoring",
+        "admin"
+      ],
+      "lastUpdate": "2026-07-23T01:25:27.372Z"
     },
     {
       "name": "@zhin.js/host-http-contract",
@@ -917,18 +1006,18 @@
       "lastUpdate": "2026-06-02T01:39:15.145Z"
     },
     {
-      "name": "@zhin.js/im-contract",
-      "displayName": "im-contract",
-      "description": "Stable IM transport contracts for Zhin.js",
+      "name": "@zhin.js/http-host",
+      "displayName": "http-host",
+      "description": "Fetch-based HTTP host: routing, auth, CORS, Node serve adapter",
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.6",
-      "npm": "https://www.npmjs.com/package/@zhin.js/im-contract",
+      "version": "0.1.4",
+      "npm": "https://www.npmjs.com/package/@zhin.js/http-host",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:54:59.622Z"
+      "lastUpdate": "2026-06-02T01:38:57.898Z"
     },
     {
       "name": "@zhin.js/interaction",
@@ -951,12 +1040,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.13",
+      "version": "1.1.14",
       "npm": "https://www.npmjs.com/package/@zhin.js/isolate",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-26T02:58:00.431Z"
+      "lastUpdate": "2026-10-27T11:53:40.931Z"
     },
     {
       "name": "@zhin.js/jsx",
@@ -965,12 +1054,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.5",
+      "version": "1.1.6",
       "npm": "https://www.npmjs.com/package/@zhin.js/jsx",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:54:19.282Z"
+      "lastUpdate": "2026-10-27T11:54:54.357Z"
     },
     {
       "name": "@zhin.js/kernel",
@@ -985,20 +1074,6 @@
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
       "lastUpdate": "2026-10-23T01:54:43.475Z"
-    },
-    {
-      "name": "@zhin.js/layout",
-      "displayName": "layout",
-      "description": "Convention-based Console Layout capability Feature for Zhin.js plugins",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "1.1.9",
-      "npm": "https://www.npmjs.com/package/@zhin.js/layout",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-10-23T14:54:28.687Z"
     },
     {
       "name": "@zhin.js/logger",
@@ -1031,7 +1106,7 @@
         "service",
         "ai"
       ],
-      "version": "1.1.16",
+      "version": "1.1.17",
       "npm": "https://www.npmjs.com/package/@zhin.js/mcp",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -1046,49 +1121,7 @@
         "assistant",
         "llm"
       ],
-      "lastUpdate": "2026-10-23T14:54:14.463Z"
-    },
-    {
-      "name": "@zhin.js/mcp-feature",
-      "displayName": "mcp-feature",
-      "description": "Convention-based MCP client Feature for Zhin Plugin Runtime",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "1.1.9",
-      "npm": "https://www.npmjs.com/package/@zhin.js/mcp-feature",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-10-23T14:54:01.965Z"
-    },
-    {
-      "name": "@zhin.js/middleware",
-      "displayName": "middleware",
-      "description": "Convention-based Middleware Feature for Zhin Plugin Runtime",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "1.1.9",
-      "npm": "https://www.npmjs.com/package/@zhin.js/middleware",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-10-23T14:54:43.535Z"
-    },
-    {
-      "name": "@zhin.js/page",
-      "displayName": "page",
-      "description": "Convention-based Page capability Feature for Zhin.js plugins",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "1.1.9",
-      "npm": "https://www.npmjs.com/package/@zhin.js/page",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-10-23T14:55:51.109Z"
+      "lastUpdate": "2026-10-27T11:54:42.755Z"
     },
     {
       "name": "@zhin.js/pagemanager",
@@ -1097,26 +1130,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.14",
+      "version": "1.1.15",
       "npm": "https://www.npmjs.com/package/@zhin.js/pagemanager",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-26T02:57:46.258Z"
-    },
-    {
-      "name": "@zhin.js/permission",
-      "displayName": "permission",
-      "description": "Unified PermissionHost for command permit, tool permit, and platform-level auth in Zhin Plugin Runtime",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "1.1.8",
-      "npm": "https://www.npmjs.com/package/@zhin.js/permission",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-10-23T14:55:04.791Z"
+      "lastUpdate": "2026-10-27T11:53:23.945Z"
     },
     {
       "name": "@zhin.js/plugin-60s",
@@ -1125,7 +1144,7 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.9",
+      "version": "1.1.10",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-60s",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -1145,7 +1164,7 @@
         "api",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-23T14:56:51.794Z"
+      "lastUpdate": "2026-10-27T11:56:52.480Z"
     },
     {
       "name": "@zhin.js/plugin-blackjack",
@@ -1154,32 +1173,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-blackjack",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:56:45.382Z"
-    },
-    {
-      "name": "@zhin.js/plugin-calendar",
-      "displayName": "plugin-calendar",
-      "description": "CalDAV / Google / Microsoft calendar tools for Zhin Agent",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "0.1.6",
-      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-calendar",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [
-        "zhin",
-        "zhin.js",
-        "plugin",
-        "calendar",
-        "caldav"
-      ],
-      "lastUpdate": "2026-10-23T14:57:40.700Z"
+      "lastUpdate": "2026-10-27T11:56:04.886Z"
     },
     {
       "name": "@zhin.js/plugin-code-runner",
@@ -1188,7 +1187,7 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.9",
+      "version": "1.1.10",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-code-runner",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -1201,30 +1200,7 @@
         "sandbox",
         "execute"
       ],
-      "lastUpdate": "2026-10-23T14:56:48.094Z"
-    },
-    {
-      "name": "@zhin.js/plugin-content-moderation",
-      "displayName": "plugin-content-moderation",
-      "description": "Content moderation plugin for Zhin.js — inbound/outbound multi-source scanning (Plugin Runtime)",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "1.1.15",
-      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-content-moderation",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [
-        "zhin",
-        "zhin.js",
-        "bot",
-        "plugin",
-        "moderation",
-        "content-safety",
-        "chatbot",
-        "im"
-      ],
-      "lastUpdate": "2026-10-23T14:57:48.157Z"
+      "lastUpdate": "2026-10-27T11:57:00.898Z"
     },
     {
       "name": "@zhin.js/plugin-dice-duel",
@@ -1233,40 +1209,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-dice-duel",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:57:26.282Z"
-    },
-    {
-      "name": "@zhin.js/plugin-dungeon-expedition",
-      "displayName": "plugin-dungeon-expedition",
-      "description": "Zhin.js multiplayer deterministic dungeon expedition",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "1.1.15",
-      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-dungeon-expedition",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-10-23T14:55:57.247Z"
-    },
-    {
-      "name": "@zhin.js/plugin-game-hub",
-      "displayName": "plugin-game-hub",
-      "description": "Zhin.js 游戏大厅 — 列出已加载的游戏插件 (Plugin Runtime)",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "1.1.15",
-      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-game-hub",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-10-23T14:57:22.233Z"
+      "lastUpdate": "2026-10-27T11:59:02.625Z"
     },
     {
       "name": "@zhin.js/plugin-github-notify",
@@ -1299,7 +1247,7 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-group-suite",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -1313,7 +1261,7 @@
         "stats",
         "teach"
       ],
-      "lastUpdate": "2026-10-23T14:58:57.091Z"
+      "lastUpdate": "2026-10-27T11:57:07.505Z"
     },
     {
       "name": "@zhin.js/plugin-guess-number",
@@ -1322,12 +1270,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-guess-number",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:56:17.691Z"
+      "lastUpdate": "2026-10-27T11:57:12.241Z"
     },
     {
       "name": "@zhin.js/plugin-html-renderer",
@@ -1363,12 +1311,12 @@
       "category": [
         "ai"
       ],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-idiom-chain",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:58:32.481Z"
+      "lastUpdate": "2026-10-27T11:56:32.004Z"
     },
     {
       "name": "@zhin.js/plugin-link-poster",
@@ -1377,7 +1325,7 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-link-poster",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -1392,7 +1340,7 @@
         "douyin",
         "xiaohongshu"
       ],
-      "lastUpdate": "2026-10-23T14:57:36.119Z"
+      "lastUpdate": "2026-10-27T11:57:10.637Z"
     },
     {
       "name": "@zhin.js/plugin-lottery",
@@ -1403,7 +1351,7 @@
       "category": [
         "ai"
       ],
-      "version": "1.1.9",
+      "version": "1.1.10",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-lottery",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -1418,7 +1366,7 @@
         "ssq",
         "dlt"
       ],
-      "lastUpdate": "2026-10-23T14:57:24.097Z"
+      "lastUpdate": "2026-10-27T11:57:30.405Z"
     },
     {
       "name": "@zhin.js/plugin-music",
@@ -1427,7 +1375,7 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-music",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -1442,7 +1390,7 @@
         "search",
         "share"
       ],
-      "lastUpdate": "2026-10-23T14:57:39.626Z"
+      "lastUpdate": "2026-10-27T11:57:19.094Z"
     },
     {
       "name": "@zhin.js/plugin-qrcode",
@@ -1451,7 +1399,7 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-qrcode",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -1463,7 +1411,7 @@
         "qrcode",
         "qr"
       ],
-      "lastUpdate": "2026-10-23T14:59:30.740Z"
+      "lastUpdate": "2026-10-27T11:58:27.947Z"
     },
     {
       "name": "@zhin.js/plugin-reminder",
@@ -1472,12 +1420,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.0.5",
+      "version": "1.0.6",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-reminder",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:57:49.389Z"
+      "lastUpdate": "2026-10-27T11:57:56.339Z"
     },
     {
       "name": "@zhin.js/plugin-repeater",
@@ -1486,7 +1434,7 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-repeater",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -1501,7 +1449,28 @@
         "chatbot",
         "im"
       ],
-      "lastUpdate": "2026-10-23T14:58:37.343Z"
+      "lastUpdate": "2026-10-27T11:57:47.763Z"
+    },
+    {
+      "name": "@zhin.js/plugin-roulette",
+      "displayName": "plugin-roulette",
+      "description": "Zhin.js 俄罗斯轮盘 — 多人轮流开枪，可按群开启禁言惩罚 (Plugin Runtime)",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [
+        "game"
+      ],
+      "version": "0.1.5",
+      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-roulette",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "zhin.js",
+        "game",
+        "roulette"
+      ],
+      "lastUpdate": "2026-10-27T11:57:23.513Z"
     },
     {
       "name": "@zhin.js/plugin-rps",
@@ -1510,12 +1479,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-rps",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T15:00:36.108Z"
+      "lastUpdate": "2026-10-27T11:56:14.982Z"
     },
     {
       "name": "@zhin.js/plugin-rss",
@@ -1524,7 +1493,7 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.9",
+      "version": "1.1.10",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-rss",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -1539,21 +1508,7 @@
         "subscription",
         "push"
       ],
-      "lastUpdate": "2026-10-23T14:59:10.257Z"
-    },
-    {
-      "name": "@zhin.js/plugin-runtime",
-      "displayName": "plugin-runtime",
-      "description": "Zero-dependency Plugin tree, Scope and atomic generation runtime for Zhin",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "1.1.16",
-      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-runtime",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-10-23T14:56:03.520Z"
+      "lastUpdate": "2026-10-27T11:57:35.464Z"
     },
     {
       "name": "@zhin.js/plugin-short-url",
@@ -1562,7 +1517,7 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.9",
+      "version": "1.1.10",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-short-url",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -1574,7 +1529,7 @@
         "short-url",
         "url-shortener"
       ],
-      "lastUpdate": "2026-10-23T14:57:26.202Z"
+      "lastUpdate": "2026-10-27T11:57:22.328Z"
     },
     {
       "name": "@zhin.js/plugin-test-kit",
@@ -1597,12 +1552,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-text-adventure",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:59:42.808Z"
+      "lastUpdate": "2026-10-27T11:56:14.316Z"
     },
     {
       "name": "@zhin.js/plugin-tic-tac-toe",
@@ -1611,12 +1566,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-tic-tac-toe",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:56:56.619Z"
+      "lastUpdate": "2026-10-27T11:56:58.047Z"
     },
     {
       "name": "@zhin.js/plugin-voice",
@@ -1650,12 +1605,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.15",
+      "version": "1.1.16",
       "npm": "https://www.npmjs.com/package/@zhin.js/plugin-word-riddle",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:56:42.741Z"
+      "lastUpdate": "2026-10-27T11:57:07.348Z"
     },
     {
       "name": "@zhin.js/process-monitor",
@@ -1664,7 +1619,7 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.9",
+      "version": "1.1.10",
       "npm": "https://www.npmjs.com/package/@zhin.js/process-monitor",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -1676,35 +1631,41 @@
         "process",
         "notification"
       ],
-      "lastUpdate": "2026-10-23T14:57:41.878Z"
+      "lastUpdate": "2026-10-27T11:56:51.007Z"
     },
     {
-      "name": "@zhin.js/prompt-section",
-      "displayName": "prompt-section",
-      "description": "Generation-owned Agent Prompt Section Feature for Zhin Plugin Runtime",
+      "name": "@zhin.js/queue-runtime",
+      "displayName": "queue-runtime",
+      "description": "Queue bot runtime: enqueueOutgoing, claimOutgoing, executeOutbound",
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.8",
-      "npm": "https://www.npmjs.com/package/@zhin.js/prompt-section",
+      "version": "0.0.4",
+      "npm": "https://www.npmjs.com/package/@zhin.js/queue-runtime",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:55:03.287Z"
+      "lastUpdate": "2026-06-02T01:38:58.495Z"
     },
     {
-      "name": "@zhin.js/runtime",
-      "displayName": "runtime",
-      "description": "Static Plugin graph, generation transaction and HMR Root runtime for Zhin.js",
+      "name": "@zhin.js/satori",
+      "displayName": "satori",
+      "description": "HTML/CSS to SVG via official satori, with HTML input support and built-in fonts.",
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.13",
-      "npm": "https://www.npmjs.com/package/@zhin.js/runtime",
+      "version": "1.1.0",
+      "npm": "https://www.npmjs.com/package/@zhin.js/satori",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-10-26T02:58:10.165Z"
+      "tags": [
+        "satori",
+        "html",
+        "svg",
+        "og-image",
+        "zhin"
+      ],
+      "lastUpdate": "2026-09-07T08:05:24.614Z"
     },
     {
       "name": "@zhin.js/scaffold-wizard",
@@ -1713,12 +1674,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.10",
+      "version": "1.1.11",
       "npm": "https://www.npmjs.com/package/@zhin.js/scaffold-wizard",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-26T02:58:21.452Z"
+      "lastUpdate": "2026-10-27T11:54:18.784Z"
     },
     {
       "name": "@zhin.js/schedule",
@@ -1743,20 +1704,6 @@
       "lastUpdate": "2026-10-16T08:06:15.849Z"
     },
     {
-      "name": "@zhin.js/schedule-feature",
-      "displayName": "schedule-feature",
-      "description": "Generation-owned schedule Feature for Zhin Plugin Runtime",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "1.1.8",
-      "npm": "https://www.npmjs.com/package/@zhin.js/schedule-feature",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-10-23T14:55:37.328Z"
-    },
-    {
       "name": "@zhin.js/schema",
       "displayName": "schema",
       "description": "Configuration validation and schema system for Zhin.js",
@@ -1765,7 +1712,7 @@
       "category": [
         "framework"
       ],
-      "version": "1.1.3",
+      "version": "1.1.4",
       "npm": "https://www.npmjs.com/package/@zhin.js/schema",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -1777,7 +1724,7 @@
         "config",
         "type-checking"
       ],
-      "lastUpdate": "2026-10-16T08:04:03.962Z"
+      "lastUpdate": "2026-10-27T11:54:34.620Z"
     },
     {
       "name": "@zhin.js/sensitive-filter",
@@ -1812,7 +1759,7 @@
       "category": [
         "service"
       ],
-      "version": "1.1.18",
+      "version": "1.1.19",
       "npm": "https://www.npmjs.com/package/@zhin.js/service-activity-feedback",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -1824,23 +1771,7 @@
         "activity-feedback",
         "typing-indicator"
       ],
-      "lastUpdate": "2026-10-26T02:58:07.454Z"
-    },
-    {
-      "name": "@zhin.js/service-typesafe",
-      "displayName": "service-typesafe",
-      "description": "Optional TypeSafe AI Jev decision provider for Zhin",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [
-        "service"
-      ],
-      "version": "1.0.10",
-      "npm": "https://www.npmjs.com/package/@zhin.js/service-typesafe",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-10-26T02:58:22.136Z"
+      "lastUpdate": "2026-10-27T11:58:12.239Z"
     },
     {
       "name": "@zhin.js/skill",
@@ -1849,12 +1780,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.9",
+      "version": "1.1.10",
       "npm": "https://www.npmjs.com/package/@zhin.js/skill",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:56:06.384Z"
+      "lastUpdate": "2026-10-27T11:53:52.152Z"
     },
     {
       "name": "@zhin.js/speech",
@@ -1879,32 +1810,62 @@
       "lastUpdate": "2026-10-23T14:56:12.513Z"
     },
     {
+      "name": "@zhin.js/storage-port",
+      "displayName": "storage-port",
+      "description": "Portable key-value storage abstraction for Host and Edge",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "0.0.2",
+      "npm": "https://www.npmjs.com/package/@zhin.js/storage-port",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [],
+      "lastUpdate": "2026-06-02T01:38:59.575Z"
+    },
+    {
+      "name": "@zhin.js/tailwind",
+      "displayName": "tailwind",
+      "description": "Optional Tailwind CSS utilities as static inline JSX styles",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [
+        "ai"
+      ],
+      "version": "1.1.2",
+      "npm": "https://www.npmjs.com/package/@zhin.js/tailwind",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [],
+      "lastUpdate": "2026-10-16T08:04:33.278Z"
+    },
+    {
       "name": "@zhin.js/testing",
       "displayName": "testing",
       "description": "Real Plugin Runtime integration fixtures with synthetic IM endpoints",
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.0.5",
+      "version": "1.0.6",
       "npm": "https://www.npmjs.com/package/@zhin.js/testing",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-22T07:40:51.250Z"
+      "lastUpdate": "2026-10-27T11:54:58.575Z"
     },
     {
-      "name": "@zhin.js/tool",
-      "displayName": "tool",
-      "description": "Convention-based Agent Tool Feature for Zhin Plugin Runtime",
-      "author": "GitHub Actions",
+      "name": "@zhin.js/types",
+      "displayName": "types",
+      "description": "Zhin types for typescript",
+      "author": "lc_cn",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.9",
-      "npm": "https://www.npmjs.com/package/@zhin.js/tool",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "version": "1.0.5",
+      "npm": "https://www.npmjs.com/package/@zhin.js/types",
+      "github": "",
+      "homepage": "",
       "tags": [],
-      "lastUpdate": "2026-10-23T14:56:05.757Z"
+      "lastUpdate": "2025-11-17T15:12:30.927Z"
     },
     {
       "name": "@zhin.js/workroom",
@@ -1913,19 +1874,19 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "0.0.10",
+      "version": "0.0.11",
       "npm": "https://www.npmjs.com/package/@zhin.js/workroom",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-26T02:59:41.459Z"
+      "lastUpdate": "2026-10-27T11:55:05.225Z"
     }
   ],
   "stats": {
-    "total": 101,
-    "official": 101,
-    "adapters": 21,
+    "total": 96,
+    "official": 96,
+    "adapters": 22,
     "community": 0
   },
-  "updatedAt": "2026-10-27T04:40:24.891Z"
+  "updatedAt": "2026-10-28T05:14:18.956Z"
 }
