@@ -1,22 +1,6 @@
 {
   "plugins": [
     {
-      "name": "@zhin.js/adapter",
-      "displayName": "adapter",
-      "description": "Convention-based Adapter and Endpoint Feature for Zhin Plugin Runtime",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [
-        "adapter"
-      ],
-      "version": "1.1.23",
-      "npm": "https://www.npmjs.com/package/@zhin.js/adapter",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-10-27T11:54:10.867Z"
-    },
-    {
       "name": "@zhin.js/adapter-dingtalk",
       "displayName": "dingtalk",
       "description": "Zhin.js DingTalk (钉钉) adapter for Plugin Runtime (HTTP webhook)",
@@ -1511,6 +1495,20 @@
       "lastUpdate": "2026-10-27T11:57:35.464Z"
     },
     {
+      "name": "@zhin.js/plugin-runtime",
+      "displayName": "plugin-runtime",
+      "description": "Zero-dependency Plugin tree, Scope and atomic generation runtime for Zhin",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.1.17",
+      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-runtime",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [],
+      "lastUpdate": "2026-10-27T11:53:46.548Z"
+    },
+    {
       "name": "@zhin.js/plugin-short-url",
       "displayName": "plugin-short-url",
       "description": "URL shortener plugin for Zhin.js — shorten & expand URLs (Plugin Runtime)",
@@ -1885,8 +1883,8 @@
   "stats": {
     "total": 96,
     "official": 96,
-    "adapters": 22,
+    "adapters": 21,
     "community": 0
   },
-  "updatedAt": "2026-10-28T05:14:18.956Z"
+  "updatedAt": "2026-10-29T05:25:10.913Z"
 }
