@@ -580,7 +580,7 @@
       "category": [
         "framework"
       ],
-      "version": "1.1.24",
+      "version": "1.1.25",
       "npm": "https://www.npmjs.com/package/@zhin.js/cli",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -591,7 +591,7 @@
         "command-line",
         "tool"
       ],
-      "lastUpdate": "2026-10-31T04:59:35.452Z"
+      "lastUpdate": "2026-11-01T02:26:27.525Z"
     },
     {
       "name": "@zhin.js/client",
@@ -1954,5 +1954,5 @@
     "adapters": 21,
     "community": 0
   },
-  "updatedAt": "2026-10-31T05:09:22.191Z"
+  "updatedAt": "2026-11-01T05:39:40.455Z"
 }
