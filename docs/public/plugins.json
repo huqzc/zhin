@@ -44,7 +44,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-dingtalk",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -57,7 +57,7 @@
         "钉钉",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-31T04:59:52.791Z"
+      "lastUpdate": "2026-11-01T12:32:09.469Z"
     },
     {
       "name": "@zhin.js/adapter-discord",
@@ -68,7 +68,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-discord",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -80,7 +80,7 @@
         "discord",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-31T04:59:58.928Z"
+      "lastUpdate": "2026-11-01T12:31:54.759Z"
     },
     {
       "name": "@zhin.js/adapter-email",
@@ -92,7 +92,7 @@
         "adapter",
         "ai"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-email",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -106,7 +106,7 @@
         "imap",
         "mail"
       ],
-      "lastUpdate": "2026-10-31T04:59:51.534Z"
+      "lastUpdate": "2026-11-01T12:32:09.879Z"
     },
     {
       "name": "@zhin.js/adapter-github",
@@ -117,7 +117,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-github",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -132,7 +132,7 @@
         "webhook",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-31T04:59:56.257Z"
+      "lastUpdate": "2026-11-01T12:32:14.950Z"
     },
     {
       "name": "@zhin.js/adapter-icqq",
@@ -143,7 +143,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-icqq",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -157,7 +157,7 @@
         "tencent",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-31T05:00:03.063Z"
+      "lastUpdate": "2026-11-01T12:31:58.723Z"
     },
     {
       "name": "@zhin.js/adapter-kook",
@@ -168,7 +168,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-kook",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -181,7 +181,7 @@
         "开黑啦",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-31T05:00:02.572Z"
+      "lastUpdate": "2026-11-01T12:33:12.812Z"
     },
     {
       "name": "@zhin.js/adapter-lark",
@@ -192,7 +192,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-lark",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -206,7 +206,7 @@
         "飞书",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-31T05:00:12.443Z"
+      "lastUpdate": "2026-11-01T12:32:07.166Z"
     },
     {
       "name": "@zhin.js/adapter-line",
@@ -217,7 +217,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-line",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -229,7 +229,7 @@
         "line",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-31T05:00:06.989Z"
+      "lastUpdate": "2026-11-01T12:32:41.840Z"
     },
     {
       "name": "@zhin.js/adapter-milky",
@@ -240,7 +240,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-milky",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -253,7 +253,7 @@
         "qq",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-31T05:00:28.468Z"
+      "lastUpdate": "2026-11-01T12:32:59.180Z"
     },
     {
       "name": "@zhin.js/adapter-napcat",
@@ -264,7 +264,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-napcat",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -280,7 +280,7 @@
         "qq",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-31T05:00:34.009Z"
+      "lastUpdate": "2026-11-01T12:34:02.685Z"
     },
     {
       "name": "@zhin.js/adapter-onebot11",
@@ -291,7 +291,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-onebot11",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -305,7 +305,7 @@
         "qq",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-31T05:00:41.220Z"
+      "lastUpdate": "2026-11-01T12:32:29.076Z"
     },
     {
       "name": "@zhin.js/adapter-onebot12",
@@ -316,7 +316,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-onebot12",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -329,7 +329,7 @@
         "onebot12",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-31T05:00:40.993Z"
+      "lastUpdate": "2026-11-01T12:32:26.779Z"
     },
     {
       "name": "@zhin.js/adapter-qq",
@@ -340,7 +340,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-qq",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -354,7 +354,7 @@
         "official",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-31T05:01:05.386Z"
+      "lastUpdate": "2026-11-01T12:33:14.117Z"
     },
     {
       "name": "@zhin.js/adapter-sandbox",
@@ -365,7 +365,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.21",
+      "version": "1.1.22",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-sandbox",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -379,7 +379,7 @@
         "development",
         "local"
       ],
-      "lastUpdate": "2026-10-31T05:00:42.583Z"
+      "lastUpdate": "2026-11-01T12:32:28.602Z"
     },
     {
       "name": "@zhin.js/adapter-satori",
@@ -390,7 +390,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-satori",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -402,7 +402,7 @@
         "satori",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-31T05:00:41.740Z"
+      "lastUpdate": "2026-11-01T12:32:35.173Z"
     },
     {
       "name": "@zhin.js/adapter-slack",
@@ -413,7 +413,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-slack",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -425,7 +425,7 @@
         "slack",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-31T05:01:07.892Z"
+      "lastUpdate": "2026-11-01T12:33:14.685Z"
     },
     {
       "name": "@zhin.js/adapter-telegram",
@@ -436,7 +436,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-telegram",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -448,7 +448,7 @@
         "telegram",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-31T05:00:48.202Z"
+      "lastUpdate": "2026-11-01T12:32:34.251Z"
     },
     {
       "name": "@zhin.js/adapter-wechat-mp",
@@ -459,7 +459,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-wechat-mp",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -475,7 +475,7 @@
         "mp",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-31T05:00:58.168Z"
+      "lastUpdate": "2026-11-01T12:32:54.591Z"
     },
     {
       "name": "@zhin.js/adapter-wecom",
@@ -486,7 +486,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-wecom",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -500,7 +500,7 @@
         "wechat work",
         "chatbot"
       ],
-      "lastUpdate": "2026-10-31T05:01:02.736Z"
+      "lastUpdate": "2026-11-01T12:33:21.968Z"
     },
     {
       "name": "@zhin.js/adapter-weixin-ilink",
@@ -511,7 +511,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.19",
+      "version": "1.1.20",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-weixin-ilink",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -525,7 +525,7 @@
         "ilink",
         "clawbot"
       ],
-      "lastUpdate": "2026-10-31T05:01:34.174Z"
+      "lastUpdate": "2026-11-01T12:34:27.147Z"
     },
     {
       "name": "@zhin.js/agent",
@@ -580,7 +580,7 @@
       "category": [
         "framework"
       ],
-      "version": "1.1.25",
+      "version": "1.1.26",
       "npm": "https://www.npmjs.com/package/@zhin.js/cli",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -591,7 +591,7 @@
         "command-line",
         "tool"
       ],
-      "lastUpdate": "2026-11-01T02:26:27.525Z"
+      "lastUpdate": "2026-11-01T12:32:47.296Z"
     },
     {
       "name": "@zhin.js/client",
@@ -965,12 +965,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.11",
+      "version": "1.1.12",
       "npm": "https://www.npmjs.com/package/@zhin.js/layout",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-31T04:58:51.853Z"
+      "lastUpdate": "2026-11-01T12:31:27.704Z"
     },
     {
       "name": "@zhin.js/logger",
@@ -1041,12 +1041,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.11",
+      "version": "1.1.12",
       "npm": "https://www.npmjs.com/package/@zhin.js/page",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-31T04:58:52.552Z"
+      "lastUpdate": "2026-11-01T12:32:36.657Z"
     },
     {
       "name": "@zhin.js/pagemanager",
@@ -1055,12 +1055,12 @@
       "author": "GitHub Actions",
       "isOfficial": true,
       "category": [],
-      "version": "1.1.18",
+      "version": "1.1.19",
       "npm": "https://www.npmjs.com/package/@zhin.js/pagemanager",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-10-31T04:58:53.362Z"
+      "lastUpdate": "2026-11-01T12:31:28.110Z"
     },
     {
       "name": "@zhin.js/permission",
@@ -1954,5 +1954,5 @@
     "adapters": 21,
     "community": 0
   },
-  "updatedAt": "2026-11-01T05:39:40.455Z"
+  "updatedAt": "2026-11-02T05:38:09.646Z"
 }
