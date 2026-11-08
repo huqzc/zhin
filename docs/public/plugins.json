@@ -1432,6 +1432,31 @@
       "lastUpdate": "2026-11-06T11:15:11.286Z"
     },
     {
+      "name": "@zhin.js/plugin-html-renderer",
+      "displayName": "plugin-html-renderer",
+      "description": "HTML to image rendering plugin for Zhin.js using @zhinjs/satori",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "2.0.1",
+      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-html-renderer",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "zhin.js",
+        "bot",
+        "plugin",
+        "html",
+        "image",
+        "render",
+        "satori",
+        "svg",
+        "png"
+      ],
+      "lastUpdate": "2026-06-18T17:16:33.738Z"
+    },
+    {
       "name": "@zhin.js/plugin-idiom-chain",
       "displayName": "plugin-idiom-chain",
       "description": "Zhin.js 成语接龙 — 四字成语文字接龙 (Plugin Runtime)",
@@ -1804,6 +1829,20 @@
       "lastUpdate": "2026-11-06T11:16:32.190Z"
     },
     {
+      "name": "@zhin.js/prompt-section",
+      "displayName": "prompt-section",
+      "description": "Generation-owned Agent Prompt Section Feature for Zhin Plugin Runtime",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.1.14",
+      "npm": "https://www.npmjs.com/package/@zhin.js/prompt-section",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [],
+      "lastUpdate": "2026-11-06T11:12:05.570Z"
+    },
+    {
       "name": "@zhin.js/runtime",
       "displayName": "runtime",
       "description": "Static Plugin graph, generation transaction and HMR Root runtime for Zhin.js",
@@ -1891,6 +1930,46 @@
       "lastUpdate": "2026-11-06T04:22:58.993Z"
     },
     {
+      "name": "@zhin.js/sensitive-filter",
+      "displayName": "sensitive-filter",
+      "description": "Content moderation plugin for Zhin.js - filters sensitive words",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "2.0.1",
+      "npm": "https://www.npmjs.com/package/@zhin.js/sensitive-filter",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "zhin.js",
+        "bot",
+        "plugin",
+        "sensitive",
+        "filter",
+        "moderation",
+        "content",
+        "security"
+      ],
+      "lastUpdate": "2026-06-18T17:16:37.859Z"
+    },
+    {
+      "name": "@zhin.js/service-typesafe",
+      "displayName": "service-typesafe",
+      "description": "Optional TypeSafe AI Jev decision provider for Zhin",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [
+        "service"
+      ],
+      "version": "1.0.18",
+      "npm": "https://www.npmjs.com/package/@zhin.js/service-typesafe",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [],
+      "lastUpdate": "2026-11-06T11:15:00.816Z"
+    },
+    {
       "name": "@zhin.js/skill",
       "displayName": "skill",
       "description": "Convention-based Markdown Skill Feature for Zhin Plugin Runtime",
@@ -1970,10 +2049,10 @@
     }
   ],
   "stats": {
-    "total": 101,
-    "official": 101,
+    "total": 105,
+    "official": 105,
     "adapters": 25,
     "community": 0
   },
-  "updatedAt": "2026-11-07T05:38:51.222Z"
+  "updatedAt": "2026-11-08T05:40:53.840Z"
 }
