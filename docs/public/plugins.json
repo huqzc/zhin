@@ -790,6 +790,20 @@
       "lastUpdate": "2026-11-08T06:21:38.052Z"
     },
     {
+      "name": "@zhin.js/console-protocol",
+      "displayName": "console-protocol",
+      "description": "Canonical Zhin Console RPC names, payload contracts, and scope policy",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.1.14",
+      "npm": "https://www.npmjs.com/package/@zhin.js/console-protocol",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [],
+      "lastUpdate": "2026-11-06T04:24:42.005Z"
+    },
+    {
       "name": "@zhin.js/contract",
       "displayName": "contract",
       "description": "Zhin console / PageManager shared contract (entries, PluginRegisterHostApi)",
@@ -1395,6 +1409,30 @@
       "lastUpdate": "2026-11-08T13:04:21.049Z"
     },
     {
+      "name": "@zhin.js/plugin-github-notify",
+      "displayName": "plugin-github-notify",
+      "description": "GitHub webhook notification service for Zhin.js",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [
+        "service"
+      ],
+      "version": "0.0.24",
+      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-github-notify",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "bot",
+        "service",
+        "github",
+        "webhook",
+        "notification",
+        "ci-cd"
+      ],
+      "lastUpdate": "2026-02-28T01:44:48.341Z"
+    },
+    {
       "name": "@zhin.js/plugin-group-suite",
       "displayName": "plugin-group-suite",
       "description": "Zhin.js 群运营套件：签到、教学、统计、持久词库与群欢迎",
@@ -1905,6 +1943,29 @@
       "lastUpdate": "2026-11-06T04:22:58.993Z"
     },
     {
+      "name": "@zhin.js/service-activity-feedback",
+      "displayName": "service-activity-feedback",
+      "description": "Activity Feedback 服务插件（Plugin Runtime）",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [
+        "service"
+      ],
+      "version": "1.1.28",
+      "npm": "https://www.npmjs.com/package/@zhin.js/service-activity-feedback",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "zhin.js",
+        "plugin",
+        "service",
+        "activity-feedback",
+        "typing-indicator"
+      ],
+      "lastUpdate": "2026-11-08T13:05:06.853Z"
+    },
+    {
       "name": "@zhin.js/service-typesafe",
       "displayName": "service-typesafe",
       "description": "Optional TypeSafe AI Jev decision provider for Zhin",
@@ -2000,10 +2061,10 @@
     }
   ],
   "stats": {
-    "total": 103,
-    "official": 103,
+    "total": 106,
+    "official": 106,
     "adapters": 25,
     "community": 0
   },
-  "updatedAt": "2026-11-09T05:50:58.484Z"
+  "updatedAt": "2026-11-10T06:56:31.862Z"
 }
