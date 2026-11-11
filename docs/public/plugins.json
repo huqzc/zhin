@@ -117,7 +117,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.26",
+      "version": "1.1.27",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-discord",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -129,7 +129,7 @@
         "discord",
         "chatbot"
       ],
-      "lastUpdate": "2026-11-08T13:03:51.815Z"
+      "lastUpdate": "2026-11-11T04:12:29.544Z"
     },
     {
       "name": "@zhin.js/adapter-douyin-live",
@@ -463,7 +463,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.29",
+      "version": "1.1.30",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-sandbox",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -477,7 +477,7 @@
         "development",
         "local"
       ],
-      "lastUpdate": "2026-11-08T15:29:33.448Z"
+      "lastUpdate": "2026-11-11T04:12:29.901Z"
     },
     {
       "name": "@zhin.js/adapter-satori",
@@ -488,7 +488,7 @@
       "category": [
         "adapter"
       ],
-      "version": "1.1.26",
+      "version": "1.1.27",
       "npm": "https://www.npmjs.com/package/@zhin.js/adapter-satori",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
@@ -500,7 +500,7 @@
         "satori",
         "chatbot"
       ],
-      "lastUpdate": "2026-11-08T13:06:09.338Z"
+      "lastUpdate": "2026-11-11T04:13:49.829Z"
     },
     {
       "name": "@zhin.js/adapter-slack",
@@ -700,12 +700,12 @@
       "category": [
         "framework"
       ],
-      "version": "1.1.30",
+      "version": "1.1.31",
       "npm": "https://www.npmjs.com/package/@zhin.js/client",
       "github": "git+https://github.com/zhinjs/zhin.git",
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
-      "lastUpdate": "2026-11-08T15:30:21.357Z"
+      "lastUpdate": "2026-11-11T04:13:15.396Z"
     },
     {
       "name": "@zhin.js/command",
@@ -788,20 +788,6 @@
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
       "lastUpdate": "2026-11-08T06:21:38.052Z"
-    },
-    {
-      "name": "@zhin.js/console-protocol",
-      "displayName": "console-protocol",
-      "description": "Canonical Zhin Console RPC names, payload contracts, and scope policy",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "1.1.14",
-      "npm": "https://www.npmjs.com/package/@zhin.js/console-protocol",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-11-06T04:24:42.005Z"
     },
     {
       "name": "@zhin.js/contract",
@@ -926,32 +912,6 @@
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
       "lastUpdate": "2026-10-16T08:04:31.060Z"
-    },
-    {
-      "name": "@zhin.js/host-router",
-      "displayName": "host-router",
-      "description": "Zhin Host HTTP runtime: Koa, Router, Bearer auth, CORS (pair with @zhin.js/host-api)",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [
-        "service"
-      ],
-      "version": "3.0.0",
-      "npm": "https://www.npmjs.com/package/@zhin.js/host-router",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [
-        "zhin",
-        "zhin.js",
-        "bot",
-        "service",
-        "host-router",
-        "router",
-        "koa",
-        "websocket",
-        "auth"
-      ],
-      "lastUpdate": "2026-07-23T01:25:36.757Z"
     },
     {
       "name": "@zhin.js/html-renderer",
@@ -1409,30 +1369,6 @@
       "lastUpdate": "2026-11-08T13:04:21.049Z"
     },
     {
-      "name": "@zhin.js/plugin-github-notify",
-      "displayName": "plugin-github-notify",
-      "description": "GitHub webhook notification service for Zhin.js",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [
-        "service"
-      ],
-      "version": "0.0.24",
-      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-github-notify",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [
-        "zhin",
-        "bot",
-        "service",
-        "github",
-        "webhook",
-        "notification",
-        "ci-cd"
-      ],
-      "lastUpdate": "2026-02-28T01:44:48.341Z"
-    },
-    {
       "name": "@zhin.js/plugin-group-suite",
       "displayName": "plugin-group-suite",
       "description": "Zhin.js 群运营套件：签到、教学、统计、持久词库与群欢迎",
@@ -1468,6 +1404,31 @@
       "homepage": "https://github.com/zhinjs/zhin#readme",
       "tags": [],
       "lastUpdate": "2026-11-08T13:04:41.547Z"
+    },
+    {
+      "name": "@zhin.js/plugin-html-renderer",
+      "displayName": "plugin-html-renderer",
+      "description": "HTML to image rendering plugin for Zhin.js using @zhinjs/satori",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "2.0.1",
+      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-html-renderer",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "zhin.js",
+        "bot",
+        "plugin",
+        "html",
+        "image",
+        "render",
+        "satori",
+        "svg",
+        "png"
+      ],
+      "lastUpdate": "2026-06-18T17:16:33.738Z"
     },
     {
       "name": "@zhin.js/plugin-idiom-chain",
@@ -1842,6 +1803,27 @@
       "lastUpdate": "2026-11-08T13:04:48.881Z"
     },
     {
+      "name": "@zhin.js/process-monitor",
+      "displayName": "process-monitor",
+      "description": "进程监控与重启通知插件 (Plugin Runtime)",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.1.18",
+      "npm": "https://www.npmjs.com/package/@zhin.js/process-monitor",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "zhin.js",
+        "plugin",
+        "monitor",
+        "process",
+        "notification"
+      ],
+      "lastUpdate": "2026-11-08T06:23:02.628Z"
+    },
+    {
       "name": "@zhin.js/prompt-section",
       "displayName": "prompt-section",
       "description": "Generation-owned Agent Prompt Section Feature for Zhin Plugin Runtime",
@@ -1943,29 +1925,6 @@
       "lastUpdate": "2026-11-06T04:22:58.993Z"
     },
     {
-      "name": "@zhin.js/service-activity-feedback",
-      "displayName": "service-activity-feedback",
-      "description": "Activity Feedback 服务插件（Plugin Runtime）",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [
-        "service"
-      ],
-      "version": "1.1.28",
-      "npm": "https://www.npmjs.com/package/@zhin.js/service-activity-feedback",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [
-        "zhin",
-        "zhin.js",
-        "plugin",
-        "service",
-        "activity-feedback",
-        "typing-indicator"
-      ],
-      "lastUpdate": "2026-11-08T13:05:06.853Z"
-    },
-    {
       "name": "@zhin.js/service-typesafe",
       "displayName": "service-typesafe",
       "description": "Optional TypeSafe AI Jev decision provider for Zhin",
@@ -2061,10 +2020,10 @@
     }
   ],
   "stats": {
-    "total": 106,
-    "official": 106,
+    "total": 104,
+    "official": 104,
     "adapters": 25,
     "community": 0
   },
-  "updatedAt": "2026-11-10T06:56:31.862Z"
+  "updatedAt": "2026-11-11T05:46:54.713Z"
 }
