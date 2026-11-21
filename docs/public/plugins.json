@@ -1352,6 +1352,31 @@
       "lastUpdate": "2026-11-19T10:17:55.056Z"
     },
     {
+      "name": "@zhin.js/plugin-html-renderer",
+      "displayName": "plugin-html-renderer",
+      "description": "HTML to image rendering plugin for Zhin.js using @zhinjs/satori",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "2.0.1",
+      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-html-renderer",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "zhin.js",
+        "bot",
+        "plugin",
+        "html",
+        "image",
+        "render",
+        "satori",
+        "svg",
+        "png"
+      ],
+      "lastUpdate": "2026-06-18T17:16:33.738Z"
+    },
+    {
       "name": "@zhin.js/plugin-idiom-chain",
       "displayName": "plugin-idiom-chain",
       "description": "Chinese four-character idiom chaining with same-sound or same-character rules and a built-in dictionary.",
@@ -1957,10 +1982,10 @@
     }
   ],
   "stats": {
-    "total": 105,
-    "official": 105,
+    "total": 106,
+    "official": 106,
     "adapters": 21,
     "community": 0
   },
-  "updatedAt": "2026-11-20T06:51:48.547Z"
+  "updatedAt": "2026-11-21T06:46:07.032Z"
 }
