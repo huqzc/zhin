@@ -1724,6 +1724,26 @@
       "lastUpdate": "2026-11-21T12:32:56.982Z"
     },
     {
+      "name": "@zhin.js/process-monitor",
+      "displayName": "process-monitor",
+      "description": "Records starts, restarts and crashes, with a status command and a Console panel for memory and uptime.",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.1.25",
+      "npm": "https://www.npmjs.com/package/@zhin.js/process-monitor",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin.js",
+        "monitoring",
+        "process",
+        "uptime",
+        "restart"
+      ],
+      "lastUpdate": "2026-11-21T12:33:20.771Z"
+    },
+    {
       "name": "@zhin.js/prompt-section",
       "displayName": "prompt-section",
       "description": "Generation-owned Agent Prompt Section Feature for Zhin Plugin Runtime",
@@ -1971,10 +1991,10 @@
     }
   ],
   "stats": {
-    "total": 106,
-    "official": 106,
+    "total": 107,
+    "official": 107,
     "adapters": 21,
     "community": 0
   },
-  "updatedAt": "2026-11-22T06:17:18.211Z"
+  "updatedAt": "2026-11-23T07:07:59.367Z"
 }
