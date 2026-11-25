@@ -36,6 +36,27 @@
       "lastUpdate": "2026-11-24T07:30:01.980Z"
     },
     {
+      "name": "@zhin.js/adapter-bilibili-live",
+      "displayName": "bilibili-live",
+      "description": "Bilibili live danmaku adapter (experimental): reads danmaku in your own live room and replies once per danmaku window.",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [
+        "adapter"
+      ],
+      "version": "0.1.21",
+      "npm": "https://www.npmjs.com/package/@zhin.js/adapter-bilibili-live",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin.js",
+        "bilibili",
+        "live-streaming",
+        "danmaku"
+      ],
+      "lastUpdate": "2026-11-24T07:30:06.250Z"
+    },
+    {
       "name": "@zhin.js/adapter-dingtalk",
       "displayName": "dingtalk",
       "description": "DingTalk bot adapter: HTTP webhook messaging with signature verification and automatic access-token refresh.",
@@ -1382,6 +1403,31 @@
       "lastUpdate": "2026-11-24T07:31:34.401Z"
     },
     {
+      "name": "@zhin.js/plugin-html-renderer",
+      "displayName": "plugin-html-renderer",
+      "description": "HTML to image rendering plugin for Zhin.js using @zhinjs/satori",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "2.0.1",
+      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-html-renderer",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "zhin.js",
+        "bot",
+        "plugin",
+        "html",
+        "image",
+        "render",
+        "satori",
+        "svg",
+        "png"
+      ],
+      "lastUpdate": "2026-06-18T17:16:33.738Z"
+    },
+    {
       "name": "@zhin.js/plugin-idiom-chain",
       "displayName": "plugin-idiom-chain",
       "description": "Chinese four-character idiom chaining with same-sound or same-character rules and a built-in dictionary.",
@@ -1740,6 +1786,26 @@
       "lastUpdate": "2026-11-24T07:32:04.241Z"
     },
     {
+      "name": "@zhin.js/process-monitor",
+      "displayName": "process-monitor",
+      "description": "Records starts, restarts and crashes, with a status command and a Console panel for memory and uptime.",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.1.26",
+      "npm": "https://www.npmjs.com/package/@zhin.js/process-monitor",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin.js",
+        "monitoring",
+        "process",
+        "uptime",
+        "restart"
+      ],
+      "lastUpdate": "2026-11-24T07:32:24.119Z"
+    },
+    {
       "name": "@zhin.js/prompt-section",
       "displayName": "prompt-section",
       "description": "Generation-owned Agent Prompt Section Feature for Zhin Plugin Runtime",
@@ -1987,10 +2053,10 @@
     }
   ],
   "stats": {
-    "total": 107,
-    "official": 107,
-    "adapters": 22,
+    "total": 110,
+    "official": 110,
+    "adapters": 23,
     "community": 0
   },
-  "updatedAt": "2026-11-24T09:32:06.622Z"
+  "updatedAt": "2026-11-25T08:03:15.706Z"
 }
