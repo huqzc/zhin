@@ -270,22 +270,6 @@
       "lastUpdate": "2026-11-24T07:30:48.231Z"
     },
     {
-      "name": "@zhin.js/adapter-onebot-events",
-      "displayName": "onebot-events",
-      "description": "Shared OneBot v11 / NapCat / icqq raw notice and request to canonical side event mapping for Zhin adapters",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [
-        "adapter"
-      ],
-      "version": "0.0.17",
-      "npm": "https://www.npmjs.com/package/@zhin.js/adapter-onebot-events",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [],
-      "lastUpdate": "2026-11-24T07:29:00.622Z"
-    },
-    {
       "name": "@zhin.js/adapter-onebot11",
       "displayName": "onebot11",
       "description": "OneBot 11 adapter: forward WebSocket client with reverse WS support, for any OneBot 11 implementation.",
@@ -741,6 +725,29 @@
         "redis"
       ],
       "lastUpdate": "2026-11-24T07:28:55.968Z"
+    },
+    {
+      "name": "@zhin.js/dependency",
+      "displayName": "dependency",
+      "description": "TypeScript dependency tree analyzer with ESM support for Zhin.js",
+      "author": "GitHub Actions",
+      "isOfficial": true,
+      "category": [],
+      "version": "1.0.5",
+      "npm": "https://www.npmjs.com/package/@zhin.js/dependency",
+      "github": "git+https://github.com/zhinjs/zhin.git",
+      "homepage": "https://github.com/zhinjs/zhin#readme",
+      "tags": [
+        "zhin",
+        "bot",
+        "dependency",
+        "tree",
+        "module",
+        "import",
+        "typescript",
+        "esm"
+      ],
+      "lastUpdate": "2026-01-14T01:12:52.702Z"
     },
     {
       "name": "@zhin.js/feature-kit",
@@ -1403,31 +1410,6 @@
       "lastUpdate": "2026-11-24T07:31:34.401Z"
     },
     {
-      "name": "@zhin.js/plugin-html-renderer",
-      "displayName": "plugin-html-renderer",
-      "description": "HTML to image rendering plugin for Zhin.js using @zhinjs/satori",
-      "author": "GitHub Actions",
-      "isOfficial": true,
-      "category": [],
-      "version": "2.0.1",
-      "npm": "https://www.npmjs.com/package/@zhin.js/plugin-html-renderer",
-      "github": "git+https://github.com/zhinjs/zhin.git",
-      "homepage": "https://github.com/zhinjs/zhin#readme",
-      "tags": [
-        "zhin",
-        "zhin.js",
-        "bot",
-        "plugin",
-        "html",
-        "image",
-        "render",
-        "satori",
-        "svg",
-        "png"
-      ],
-      "lastUpdate": "2026-06-18T17:16:33.738Z"
-    },
-    {
       "name": "@zhin.js/plugin-idiom-chain",
       "displayName": "plugin-idiom-chain",
       "description": "Chinese four-character idiom chaining with same-sound or same-character rules and a built-in dictionary.",
@@ -2053,10 +2035,10 @@
     }
   ],
   "stats": {
-    "total": 110,
-    "official": 110,
-    "adapters": 23,
+    "total": 109,
+    "official": 109,
+    "adapters": 22,
     "community": 0
   },
-  "updatedAt": "2026-11-25T08:03:15.706Z"
+  "updatedAt": "2026-11-26T07:54:15.544Z"
 }
